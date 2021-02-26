@@ -51,4 +51,4 @@
 - sklearn.feature_extraction.text.TfidfVectorizer - for term frequency and inverse document frequency
 
 ## Scipy
--scipy.stats.rankdata - used for rank transformation
+- scipy.stats.rankdata - used for rank transformation
